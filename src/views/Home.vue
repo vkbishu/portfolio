@@ -53,7 +53,7 @@ export default {
 		</section>
 
 		<!-- more about me -->
-		<section class="py-20">
+		<!-- <section class="py-20">
 			<h2 class="'font-general-semibold text-2xl sm:text-3xl font-semibold mb-6 text-ternary-dark dark:text-ternary-light text-center">MORE ABOUT ME</h2>
 			<div class="grid grid-cols-1 sm:grid-cols-3 gap-8 sm:gap-6 sm:space-y-0">
 				<div class="cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark p-6 rounded-md shadow-md hover:shadow-xl space-y-2">
@@ -75,7 +75,7 @@ export default {
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 
 		<!-- Projects -->
 		<ProjectsGrid />
