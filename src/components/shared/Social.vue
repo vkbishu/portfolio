@@ -8,26 +8,20 @@ export default {
 					id: 1,
 					name: 'GitHub',
 					icon: 'github',
-					url: 'https://github.com/realstoman',
+					url: 'https://github.com/vkbishu',
 				},
 				{
 					id: 2,
 					name: 'Twitter',
 					icon: 'twitter',
-					url: 'https://twitter.com/realstoman',
+					url: 'https://twitter.com/vkbishu',
 				},
 				{
 					id: 3,
 					name: 'Linkedin',
 					icon: 'linkedin',
-					url: 'https://linkedin.com',
-				},
-				{
-					id: 4,
-					name: 'Instagram',
-					icon: 'instagram',
-					url: 'https://instagram.com/realstoman',
-				},
+					url: 'https://linkedin.com/in/vk-bishu-3190b7123',
+				}
 			],
 		};
 	},
