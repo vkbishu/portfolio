@@ -39,7 +39,7 @@ export default {
 			<p
 				class="text-lg sm:text-xl  xl:text-2xl text-center sm:text-left text-gray-400 mb-6"
 			>
-			A <b class="text-red-400"> software engineer </b> having expertise in <b class="text-red-400"> VueJS</b>. Passion for developing web application that can solve real world problem. <br> I can turn your web application idea into a reality.
+			A <b class="text-red-500 dark:text-red-400"> software engineer </b> having expertise in <b class="text-red-500 dark:text-red-400"> VueJS</b>. Passion for developing web application that can solve real world problem. <br> I can turn your web application idea into a reality.
 			</p>
 			
 			<p
@@ -52,7 +52,7 @@ export default {
 				<a
 					download="Venkatesh-Bishu-Resume.pdf"
 					href="/files/resume.pdf"
-					class="flex justify-center items-center w-36 sm:w-48 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-50 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500 text-gray-500 hover:text-white duration-500"
+					class="flex justify-center items-center w-36 sm:w-48 mb-6 sm:mb-0 text-lg border border-red-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-red-50 focus:ring-1 focus:ring-red-900 hover:bg-red-500 dark:hover:bg-red-400 text-gray-400 hover:text-white duration-500"
 					aria-label="Download Resume"
 				>
 					<i
