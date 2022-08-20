@@ -4,40 +4,34 @@
 const projects = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Alnawras Express',
 		category: 'Web Application',
-		img: require('@/assets/images/web-project-2.jpg'),
+		img: require('@/assets/images/alnawras-express.png'),
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
-		img: require('@/assets/images/mobile-project-2.jpg'),
+		title: 'OLT Control Panel',
+		category: 'Web Application',
+		img: require('@/assets/images/molt.png'),
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
-		category: 'UI/UX Design',
-		img: require('@/assets/images/ui-project-1.jpg'),
+		title: 'Survehub',
+		category: 'Web Application',
+		img: require('@/assets/images/survehub.png'),
 	},
 	{
 		id: 4,
-		title: 'Cloud Storage Platform',
-		category: 'UI/UX Design',
-		img: require('@/assets/images/ui-project-2.jpg'),
+		title: 'Hiring Crowd',
+		category: 'Web Application',
+		img: require('@/assets/images/hiring-crowd.png'),
 	},
 	{
 		id: 5,
-		title: 'React Social App',
-		category: 'Mobile Application',
-		img: require('@/assets/images/mobile-project-1.jpg'),
-	},
-	{
-		id: 6,
-		title: 'Apple Design System',
+		title: 'Flance',
 		category: 'Web Application',
-		img: require('@/assets/images/web-project-1.jpg'),
-	},
+		img: require('@/assets/images/flance.png'),
+	}
 ];
 
 export default projects;
