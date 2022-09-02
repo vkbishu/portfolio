@@ -68,12 +68,12 @@ export default {
 		</div>
 
 		<!-- Banner right illustration -->
-		<div class="w-full md:w-2/4 h-[450px] order-1 sm:order-2 mb-6 sm:mb-0">
+		<div class="w-full md:w-2/4 mt-[60px] h-[450px] order-1 sm:order-2 mb-6 sm:mt-0 sm:mb-0">
 			<div class="shadow-2xl md:ml-20 h-full relative">	
 				<img
 					src="@/assets/images/bishu-transparent.png"
 					alt="Developer"
-					class="ml-auto absolute top-[-126px] max-w-[320px] left-0 sm:left-1/4"
+					class="ml-auto absolute top-[-126px] max-w-[320px] left-1/2 translate-x-[-50%] sm:left-1/4 sm:translate-x-0"
 				/>
 			</div>
 		</div>
