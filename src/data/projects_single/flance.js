@@ -24,8 +24,8 @@ export default {
   challanges: {
     title: "Challanges",
     details: [
-      "Marker Feature: It has feature where you can put marker over an image, change the color of marker and can even discuss through comments as well.",
-      "Multi-language support: Flance is designed in such a way, that it can support multiple language and can also add new a new language just by a single click. Once you add a new language to the system, you'll get a new language field in admin to add translation for a particular option.",
+      "<b>Marker Feature:</b> It has feature where you can put marker over an image, change the color of marker and can even discuss through comments as well.",
+      "<b>Multi-language support:</b> Flance is designed in such a way, that it can support multiple language and can also add new a new language just by a single click. Once you add a new language to the system, you'll get a new language field in admin to add translation for a particular option.",
     ],
   },
 };

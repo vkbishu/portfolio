@@ -14,8 +14,8 @@ export default {
   challanges: {
     title: "Challanges",
     details: [
-      "Chat System: Chat system is designed in such a way, that along with text messaging, it can also log about job releated updates and iterview updates. Not only that, some predefined actions can also be performed from here like accepting interview request at scheduled time.",
-      "Integrate third party API: In Hiring crowd, Along with its own job posts It also had to fetch jobs from other portals. The challenge was to show third party jobs after its own job posting ended, without affecting the pagination and listing. ",
+      "<b>Chat System:</b> Chat system is designed in such a way, that along with text messaging, it can also log about job releated updates and iterview updates. Not only that, some predefined actions can also be performed from here like accepting interview request at scheduled time.",
+      "<b>Integrate third party API:</b> In Hiring crowd, Along with its own job posts It also had to fetch jobs from other portals. The challenge was to show third party jobs after its own job posting ended, without affecting the pagination and listing. ",
     ],
   },
 };

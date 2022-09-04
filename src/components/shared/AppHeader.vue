@@ -108,7 +108,7 @@ export default {
 				/>
 
 				<!-- Small screen hamburger menu -->
-				<div class="sm:hidden">
+				<div class="hidden">
 					<button
 						@click="isOpen = !isOpen"
 						type="button"
