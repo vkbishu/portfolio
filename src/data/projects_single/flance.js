@@ -1,5 +1,7 @@
 export default {
   title: "Flance",
+  url: "https://flance.scriptlisting.com/",
+  github: null,
   techUsed: {
     title: "Tech Used",
     tech: [

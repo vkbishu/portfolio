@@ -1,5 +1,7 @@
 export default {
   title: "Hiring Crowd",
+  url: "https://hiringcrowd.com/",
+  github: null,
   techUsed: {
     title: "Tech Used",
     tech: ["vue", "HTML", "CSS", "jQuery", "Codeigniter", "MySql"],
