@@ -88,6 +88,8 @@ export default {
         :tech="projectInfo.techUsed"
         :summary="projectInfo.summary"
         :title="projectInfo.title"
+        :github="projectInfo?.github"
+        :url="projectInfo.url"
       />
     </VModal>
   </section>

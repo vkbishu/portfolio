@@ -1,8 +1,18 @@
 export default {
   title: "Alnawras Express",
+  url: "https://alnawrasexpress.com/",
+  github: "https://github.com/vkbishu/alnawras-express-sample",
   techUsed: {
     title: "Tech Used",
-    tech: ["vuejs", "html", "css", "javascript", "codeigniter", "mysql", "quaggajs"],
+    tech: [
+      "vuejs",
+      "html",
+      "css",
+      "javascript",
+      "codeigniter",
+      "mysql",
+      "quaggajs",
+    ],
   },
   summary: {
     title: "Summary",
