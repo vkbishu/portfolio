@@ -1,7 +1,7 @@
 export default {
   title: "Flance",
   url: "https://flance.scriptlisting.com/",
-  github: null,
+  github: "https://github.com/vkbishu/flance-code-sample",
   techUsed: {
     title: "Tech Used",
     tech: [
